@@ -1,0 +1,10 @@
+allennlp==2.6.0
+allennlp-models==2.6.0
+dgl-cu110==0.6.1
+numpy==1.19.0
+pytorch-lightning==1.4.0
+rdflib==5.0.0
+tokenizers==0.10.3
+torch==1.7.1+cu110
+tqdm
+transformers==4.10.0
