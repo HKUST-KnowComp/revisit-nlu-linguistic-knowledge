@@ -1,3 +1,4 @@
+# Directly from the repo: https://github.com/ZhaofengWu/SIFT
 import logging
 
 import pytorch_lightning as pl

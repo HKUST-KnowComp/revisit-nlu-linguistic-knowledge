@@ -1,3 +1,4 @@
+# Directly from the repo: https://github.com/ZhaofengWu/SIFT
 from transformers import DataProcessor
 from transformers import glue_output_modes, glue_processors, glue_tasks_num_labels
 

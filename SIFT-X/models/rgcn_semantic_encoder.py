@@ -1,3 +1,4 @@
+# Directly from the repo: https://github.com/ZhaofengWu/SIFT
 import logging
 
 from allennlp.modules.matrix_attention import BilinearMatrixAttention

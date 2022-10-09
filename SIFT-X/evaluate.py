@@ -1,3 +1,4 @@
+# Directly from the repo: https://github.com/ZhaofengWu/SIFT
 from inference import prepare_model as prepare_inference_model
 
 

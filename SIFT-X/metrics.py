@@ -1,3 +1,4 @@
+# Directly from the repo: https://github.com/ZhaofengWu/SIFT
 from transformers.data.metrics import acc_and_f1, glue_compute_metrics, simple_accuracy
 
 def compute_metrics(task_name, preds, labels):
